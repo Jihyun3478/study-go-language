@@ -1,11 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
-func multiply(a, b int) int {
-	return a * b
+func repeatMe(words ...string) {
+	fmt.Println(words)
 }
 
 func main() {
-	fmt.Println(multiply(2, 2))
+	repeatMe("nico", "lynn", "dal", "flynn", "muzi")
 }
