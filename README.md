@@ -16,8 +16,8 @@
 - [x] 2-7. If with a Twist
 - [x] 2-8. Switch
 - [x] 2-9. Pointers!
-- [ ] 2-10. Arrays and Slices
-- [ ] 2-11. Maps
+- [x] 2-10. Arrays and Slices
+- [x] 2-11. Maps
 - [ ] 2-12. Structs
 
 ### 3장 Bank & Dictionary Projects
