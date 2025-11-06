@@ -10,7 +10,7 @@
 - [x] 2-1. Main Package
 - [X] 2-2. Packages and Imports
 - [x] 2-3. Variables and Constants
-- [ ] 2-4. Functions part One
+- [x] 2-4. Functions part One
 - [ ] 2-5. Functions part Two
 - [ ] 2-6. for, range, ...args
 - [ ] 2-7. If with a Twist

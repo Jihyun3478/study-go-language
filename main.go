@@ -2,9 +2,10 @@ package main
 
 import "fmt"
 
+func multiply(a, b int) int {
+	return a * b
+}
+
 func main() {
-	// var name string = "jihyun"
-	name := "jihyun" // go가 타입을 알아서 찾아줌
-	name = "logi"
-	fmt.Println(name)
+	fmt.Println(multiply(2, 2))
 }
