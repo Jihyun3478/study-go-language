@@ -1,4 +1,6 @@
 ## 노마드코더 Go 강의 학습 리스트 ✏️
+[Go for Beginners](https://nomadcoders.co/go-for-beginners)
+
 ### 1장 Introduction
 - [x] 1-1. What are Building
 - [x] 1-2. Theory Requirements
@@ -6,8 +8,8 @@
 
 ### 2장 Theory
 - [x] 2-1. Main Package
-- [ ] 2-2. Packages and Imports
-- [ ] 2-3. Variables and Constants
+- [X] 2-2. Packages and Imports
+- [x] 2-3. Variables and Constants
 - [ ] 2-4. Functions part One
 - [ ] 2-5. Functions part Two
 - [ ] 2-6. for, range, ...args
