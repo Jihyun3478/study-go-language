@@ -14,7 +14,7 @@
 - [x] 2-5. Functions part Two
 - [x] 2-6. for, range, ...args
 - [x] 2-7. If with a Twist
-- [ ] 2-8. Switch
+- [x] 2-8. Switch
 - [ ] 2-9. Pointers!
 - [ ] 2-10. Arrays and Slices
 - [ ] 2-11. Maps
