@@ -11,9 +11,9 @@
 - [X] 2-2. Packages and Imports
 - [x] 2-3. Variables and Constants
 - [x] 2-4. Functions part One
-- [ ] 2-5. Functions part Two
-- [ ] 2-6. for, range, ...args
-- [ ] 2-7. If with a Twist
+- [x] 2-5. Functions part Two
+- [x] 2-6. for, range, ...args
+- [x] 2-7. If with a Twist
 - [ ] 2-8. Switch
 - [ ] 2-9. Pointers!
 - [ ] 2-10. Arrays and Slices
