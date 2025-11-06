@@ -2,9 +2,13 @@ package main
 
 import "fmt"
 
+type person struct {
+	name string
+	age int
+	favFood []string
+}
 func main() {
-	jihyun := map [string]string{"name": "jihyun", "age": "25"}
-	for _, value := range jihyun {
-		fmt.Println(value)
-	}
+	favFood := []string{"kimchi, ramen"}
+	jihyun := person{name: "jihyun", age: 25, favFood: favFood}
+	fmt.Println(jihyun)
 }
