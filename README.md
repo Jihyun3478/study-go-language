@@ -15,7 +15,7 @@
 - [x] 2-6. for, range, ...args
 - [x] 2-7. If with a Twist
 - [x] 2-8. Switch
-- [ ] 2-9. Pointers!
+- [x] 2-9. Pointers!
 - [ ] 2-10. Arrays and Slices
 - [ ] 2-11. Maps
 - [ ] 2-12. Structs
