@@ -24,7 +24,7 @@
 - [x] 3-1. Account + NewAccount
 - [x] 3-2. Methods part One
 - [x] 3-3. Methods part Two
-- [ ] 3-4. Finishing Up
+- [x] 3-4. Finishing Up
 - [ ] 3-5. Dictionary part One
 - [ ] 3-6. Add Method
 - [ ] 3-7. Update Delete
