@@ -34,7 +34,7 @@
 - [x] 4-2. Slow URLChecker
 - [x] 4-3. Goroutines
 - [x] 4-4. Channels
-- [ ] 4-5. Channels Recap
+- [x] 4-5. Channels Recap
 - [ ] 4-6. One more Recap
 - [ ] 4-7. URLChecker + Go Routines
 - [ ] 4-8. FAST URLChecker
