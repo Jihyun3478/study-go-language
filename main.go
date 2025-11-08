@@ -1,14 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"../study-go-language/accounts"
+	"fmt"
+)
 
-type person struct {
-	name string
-	age int
-	favFood []string
-}
 func main() {
-	favFood := []string{"kimchi, ramen"}
-	jihyun := person{name: "jihyun", age: 25, favFood: favFood}
-	fmt.Println(jihyun)
+	account := accounts.NewAccount("jihyun")
+	account.Deposit(10)
+	fmt.Println(account.Balance())
 }

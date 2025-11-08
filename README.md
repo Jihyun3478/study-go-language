@@ -18,10 +18,10 @@
 - [x] 2-9. Pointers!
 - [x] 2-10. Arrays and Slices
 - [x] 2-11. Maps
-- [ ] 2-12. Structs
+- [x] 2-12. Structs
 
 ### 3장 Bank & Dictionary Projects
-- [ ] 3-1. Account + NewAccount
+- [x] 3-1. Account + NewAccount
 - [ ] 3-2. Methods part One
 - [ ] 3-3. Methods part Two
 - [ ] 3-4. Finishing Up
