@@ -25,9 +25,9 @@
 - [x] 3-2. Methods part One
 - [x] 3-3. Methods part Two
 - [x] 3-4. Finishing Up
-- [ ] 3-5. Dictionary part One
-- [ ] 3-6. Add Method
-- [ ] 3-7. Update Delete
+- [x] 3-5. Dictionary part One
+- [x] 3-6. Add Method
+- [x] 3-7. Update Delete
 
 ### 4장 URL Checker & Go Routines
 - [ ] 4-1. hitURL
@@ -38,19 +38,3 @@
 - [ ] 4-6. One more Recap
 - [ ] 4-7. URLChecker + Go Routines
 - [ ] 4-8. FAST URLChecker
-
-### 5장 Job Scrapper
-- [ ] 5-1. getPages part One
-- [ ] 5-2. getPages part Two
-- [ ] 5-3. extractJob part One
-- [ ] 5-4. extractJob part Two
-- [ ] 5-5. Writing Jobs
-- [ ] 5-6. Channels Time
-- [ ] 5-7. More Channels Baby
-- [ ] 5-8. Recap
-
-### 6장 Web Server with Echo
-- [ ] 6-1. Setup Part One
-- [ ] 6-2. Setup Part Two
-- [ ] 6-3. File Download
-- [ ] 6-4. Conclusions
