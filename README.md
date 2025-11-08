@@ -30,7 +30,7 @@
 - [x] 3-7. Update Delete
 
 ### 4장 URL Checker & Go Routines
-- [ ] 4-1. hitURL
+- [x] 4-1. hitURL
 - [ ] 4-2. Slow URLChecker
 - [ ] 4-3. Goroutines
 - [ ] 4-4. Channels
