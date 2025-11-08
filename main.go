@@ -1,12 +1,18 @@
 package main
 
 import (
-	"../study-go-language/accounts"
 	"fmt"
+	"../study-go-language/accounts"
 )
 
 func main() {
 	account := accounts.NewAccount("jihyun")
 	account.Deposit(10)
+	fmt.Println(account.Balance())
+
+	err := account.Withdraw(20)
+	if err != nil {
+		fmt.Println(err)
+	}
 	fmt.Println(account.Balance())
 }

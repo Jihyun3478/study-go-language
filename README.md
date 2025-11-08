@@ -22,8 +22,8 @@
 
 ### 3장 Bank & Dictionary Projects
 - [x] 3-1. Account + NewAccount
-- [ ] 3-2. Methods part One
-- [ ] 3-3. Methods part Two
+- [x] 3-2. Methods part One
+- [x] 3-3. Methods part Two
 - [ ] 3-4. Finishing Up
 - [ ] 3-5. Dictionary part One
 - [ ] 3-6. Add Method
