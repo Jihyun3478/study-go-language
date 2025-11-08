@@ -31,7 +31,7 @@
 
 ### 4장 URL Checker & Go Routines
 - [x] 4-1. hitURL
-- [ ] 4-2. Slow URLChecker
+- [x] 4-2. Slow URLChecker
 - [ ] 4-3. Goroutines
 - [ ] 4-4. Channels
 - [ ] 4-5. Channels Recap
