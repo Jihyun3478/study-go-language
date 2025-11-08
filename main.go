@@ -6,14 +6,21 @@ import (
 )
 
 func main() {
-	go countPerson("jihyun")
-	go countPerson("gildong")
-	time.Sleep(time.Second * 5)
+	// make channel
+	c := make(chan bool)
+
+	people := [2]string{"jihyun", "gildong"}
+	for _, person := range people {
+		go isFriend(person, c)
+	}
+	fmt.Println(<- c)
+	fmt.Println(<- c)
+	fmt.Println(<- c)
 }
 
-func countPerson(person string) {
-	for i := 0;i < 10; i++ {
-		fmt.Println(person, i)
-		time.Sleep(time.Second)
-	}
+// isFriend: 5초 뒤 true라는 메시지를 보내줌
+func isFriend(person string, c chan bool) {
+	time.Sleep(time.Second * 5)
+	fmt.Println(person)
+	c <- true
 }
