@@ -42,6 +42,7 @@
 ---
 
 ## 블로그 정리
-- [[밑바닥부터 인터프리터 만들기 with go] 1. 렉서 구현하기](https://jihyun-devstory.tistory.com/82)
-- [[밑바닥부터 인터프리터 만들기 with go] 2. 파서 구현하기](https://jihyun-devstory.tistory.com/83)
-- [[밑바닥부터 인터프리터 만들기 with go] 3. 평가기 구현하기](https://jihyun-devstory.tistory.com/89)
+- [[Go] 1. package, function, for, if, switch](https://jihyun-devstory.tistory.com/66)
+- [[Go] 2. pointer, map, arrays](https://jihyun-devstory.tistory.com/73)
+- [[Go] 3. struct, method, dictionary](https://jihyun-devstory.tistory.com/68)
+- [[Go] 4. URL Checker & Go routines & Channel](https://jihyun-devstory.tistory.com/70)
